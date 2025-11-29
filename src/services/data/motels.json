@@ -1,0 +1,382 @@
+[
+  {
+    "id": "1",
+    "title": "Trần Thị Mơ",
+    "description": "Phòng trọ khu Chạp Khê",
+    "price": {
+      "value": 2700000,
+      "unit": "tháng"
+    },
+    "area": 20,
+    "images": [],
+    "city": "Quảng Ninh",
+    "district": "Chạp Khê",
+    "amenities": [
+      "Máy giặt",
+      "Điều hòa",
+      "Nóng lạnh",
+      "Wifi"
+    ],
+    "status": "published",
+    "owner": {
+      "id": "owner-1",
+      "fullName": "Trần Thị Mơ"
+    },
+    "createdAt": "2025-09-28T10:14:01.493824Z",
+    "specs": {
+      "capacity": 1
+    }
+  },
+  {
+    "id": "2",
+    "title": "Nguyễn Đăng Vương",
+    "description": "Phòng trọ khu Chạp Khê",
+    "price": {
+      "value": 2200000,
+      "unit": "tháng"
+    },
+    "area": 15,
+    "images": [],
+    "city": "Quảng Ninh",
+    "district": "Chạp Khê",
+    "amenities": [
+      "Máy giặt",
+      "Điều hòa",
+      "Nóng lạnh"
+    ],
+    "status": "published",
+    "owner": {
+      "id": "owner-2",
+      "fullName": "Nguyễn Đăng Vương"
+    },
+    "createdAt": "2025-09-28T10:14:01.493824Z",
+    "specs": {
+      "capacity": 1
+    }
+  },
+  {
+    "id": "3",
+    "title": "KSSV Thành Duy",
+    "description": "Ký túc xá/nhà trọ khu Chạp Khê",
+    "price": {
+      "value": 1500000,
+      "unit": "tháng"
+    },
+    "area": 12,
+    "images": [],
+    "city": "Quảng Ninh",
+    "district": "Chạp Khê",
+    "amenities": [
+      "Máy giặt",
+      "Điều hòa",
+      "Nóng lạnh",
+      "Wifi"
+    ],
+    "status": "published",
+    "owner": {
+      "id": "owner-3",
+      "fullName": "Thành Duy"
+    },
+    "createdAt": "2025-09-28T10:14:01.493824Z",
+    "specs": {
+      "capacity": 2
+    }
+  },
+  {
+    "id": "4",
+    "title": "Phạm Xuân Trường",
+    "description": "Phòng trọ khu Chạp Khê",
+    "price": {
+      "value": 2200000,
+      "unit": "tháng"
+    },
+    "area": 15,
+    "images": [],
+    "city": "Quảng Ninh",
+    "district": "Chạp Khê",
+    "amenities": [
+      "Máy giặt",
+      "Điều hòa",
+      "Nóng lạnh"
+    ],
+    "status": "published",
+    "owner": {
+      "id": "owner-4",
+      "fullName": "Phạm Xuân Trường"
+    },
+    "createdAt": "2025-09-28T10:14:01.493824Z",
+    "specs": {
+      "capacity": 1
+    }
+  },
+  {
+    "id": "5",
+    "title": "Đinh Thanh Liêm",
+    "description": "Phòng trọ khu Chạp Khê",
+    "price": {
+      "value": 2200000,
+      "unit": "tháng"
+    },
+    "area": 15,
+    "images": [],
+    "city": "Quảng Ninh",
+    "district": "Chạp Khê",
+    "amenities": [
+      "Máy giặt",
+      "Điều hòa",
+      "Nóng lạnh"
+    ],
+    "status": "published",
+    "owner": {
+      "id": "owner-5",
+      "fullName": "Đinh Thanh Liêm"
+    },
+    "createdAt": "2025-09-28T10:14:01.493824Z",
+    "specs": {
+      "capacity": 2
+    }
+  },
+  {
+    "id": "6",
+    "title": "Nhà trọ An Khang",
+    "description": "Phòng trọ khu Chạp Khê",
+    "price": {
+      "value": 1800000,
+      "unit": "tháng"
+    },
+    "area": 25,
+    "images": [],
+    "city": "Quảng Ninh",
+    "district": "Chạp Khê",
+    "amenities": [
+      "Điều hòa",
+      "Nóng lạnh",
+      "Wifi"
+    ],
+    "status": "published",
+    "owner": {
+      "id": "owner-6",
+      "fullName": "An Khang"
+    },
+    "createdAt": "2025-09-28T10:14:01.493824Z",
+    "specs": {
+      "capacity": 1
+    }
+  },
+  {
+    "id": "7",
+    "title": "Lê Giang",
+    "description": "Phòng trọ khu Chạp Khê",
+    "price": {
+      "value": 1500000,
+      "unit": "tháng"
+    },
+    "area": 16,
+    "images": [],
+    "city": "Quảng Ninh",
+    "district": "Chạp Khê",
+    "amenities": [
+      "Máy giặt",
+      "Điều hòa",
+      "Nóng lạnh",
+      "Wifi"
+    ],
+    "status": "published",
+    "owner": {
+      "id": "owner-7",
+      "fullName": "Lê Giang"
+    },
+    "createdAt": "2025-09-28T10:14:01.493824Z",
+    "specs": {
+      "capacity": 2
+    }
+  },
+  {
+    "id": "8",
+    "title": "Thọ Tuyết",
+    "description": "Phòng trọ khu Chạp Khê",
+    "price": {
+      "value": 2500000,
+      "unit": "tháng"
+    },
+    "area": 15,
+    "images": [],
+    "city": "Quảng Ninh",
+    "district": "Chạp Khê",
+    "amenities": [
+      "Máy giặt",
+      "Điều hòa",
+      "Nóng lạnh"
+    ],
+    "status": "published",
+    "owner": {
+      "id": "owner-8",
+      "fullName": "Thọ Tuyết"
+    },
+    "createdAt": "2025-09-28T10:14:01.493824Z",
+    "specs": {
+      "capacity": 1
+    }
+  },
+  {
+    "id": "9",
+    "title": "Nguyễn Thị Thu - 20m2",
+    "description": "Phòng trọ khu Tre Mai",
+    "price": {
+      "value": 1500000,
+      "unit": "tháng"
+    },
+    "area": 20,
+    "images": [],
+    "city": "Quảng Ninh",
+    "district": "Tre Mai",
+    "amenities": [
+      "Điều hòa",
+      "Nóng lạnh",
+      "Wifi"
+    ],
+    "status": "published",
+    "owner": {
+      "id": "owner-9",
+      "fullName": "Nguyễn Thị Thu"
+    },
+    "createdAt": "2025-09-28T10:14:01.493824Z",
+    "specs": {
+      "capacity": 1
+    }
+  },
+  {
+    "id": "10",
+    "title": "Nguyễn Thị Thu - 18m2",
+    "description": "Phòng trọ khu Tre Mai",
+    "price": {
+      "value": 1500000,
+      "unit": "tháng"
+    },
+    "area": 18,
+    "images": [],
+    "city": "Quảng Ninh",
+    "district": "Tre Mai",
+    "amenities": [
+      "Điều hòa",
+      "Nóng lạnh",
+      "Wifi"
+    ],
+    "status": "published",
+    "owner": {
+      "id": "owner-10",
+      "fullName": "Nguyễn Thị Thu"
+    },
+    "createdAt": "2025-09-28T10:14:01.493824Z",
+    "specs": {
+      "capacity": 1
+    }
+  },
+  {
+    "id": "11",
+    "title": "Nguyễn Thị Thu - 16m2",
+    "description": "Phòng trọ khu Tre Mai",
+    "price": {
+      "value": 1500000,
+      "unit": "tháng"
+    },
+    "area": 16,
+    "images": [],
+    "city": "Quảng Ninh",
+    "district": "Tre Mai",
+    "amenities": [
+      "Điều hòa",
+      "Nóng lạnh",
+      "Wifi"
+    ],
+    "status": "published",
+    "owner": {
+      "id": "owner-11",
+      "fullName": "Nguyễn Thị Thu"
+    },
+    "createdAt": "2025-09-28T10:14:01.493824Z",
+    "specs": {
+      "capacity": 3
+    }
+  },
+  {
+    "id": "12",
+    "title": "Phùng Thị Quyên - 19m2",
+    "description": "Phòng trọ khu Tre Mai",
+    "price": {
+      "value": 1300000,
+      "unit": "tháng"
+    },
+    "area": 19,
+    "images": [],
+    "city": "Quảng Ninh",
+    "district": "Tre Mai",
+    "amenities": [
+      "Nóng lạnh",
+      "Wifi miễn phí"
+    ],
+    "status": "published",
+    "owner": {
+      "id": "owner-12",
+      "fullName": "Phùng Thị Quyên"
+    },
+    "createdAt": "2025-09-28T10:14:01.493824Z",
+    "specs": {
+      "capacity": 1
+    }
+  },
+  {
+    "id": "13",
+    "title": "Phùng Thị Quyên - 18m2",
+    "description": "Phòng trọ khu Tre Mai",
+    "price": {
+      "value": 1200000,
+      "unit": "tháng"
+    },
+    "area": 18,
+    "images": [],
+    "city": "Quảng Ninh",
+    "district": "Tre Mai",
+    "amenities": [
+      "Nóng lạnh",
+      "Wifi miễn phí"
+    ],
+    "status": "published",
+    "owner": {
+      "id": "owner-13",
+      "fullName": "Phùng Thị Quyên"
+    },
+    "createdAt": "2025-09-28T10:14:01.493824Z",
+    "specs": {
+      "capacity": 2
+    }
+  },
+  {
+    "id": "14",
+    "title": "Hà Thị Dung",
+    "description": "Phòng trọ khu Nam Trung",
+    "price": {
+      "value": 1300000,
+      "unit": "tháng"
+    },
+    "area": 12,
+    "images": [],
+    "city": "Quảng Ninh",
+    "district": "Nam Trung",
+    "amenities": [
+      "Máy giặt",
+      "Điều hòa",
+      "Nóng lạnh",
+      "Wifi"
+    ],
+    "status": "published",
+    "owner": {
+      "id": "owner-14",
+      "fullName": "Hà Thị Dung"
+    },
+    "createdAt": "2025-09-28T10:14:01.493824Z",
+    "specs": {
+      "capacity": 1
+    }
+  }
+]
